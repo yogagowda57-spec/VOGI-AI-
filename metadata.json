@@ -1,0 +1,6 @@
+{
+  "name": "VOGA AI",
+  "description": "Try Before You Buy. An AI-powered Virtual Fashion Try-On platform featuring a 3D mannequin, virtual stylist, and realistic canvas simulations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
