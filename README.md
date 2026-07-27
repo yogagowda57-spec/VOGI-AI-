@@ -4,6 +4,8 @@
 ### *Try Before You Buy.*
  TRY IT 
  https://vercel.com/yogananda-h-s-s-projects/vogi-ai
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82cbd159-fe57-43a6-99b5-e7a9b5800d4b" />
+
 <p align="center">
 AI-powered Virtual Clothing Try-On Platform using Computer Vision, 3D Rendering, and Generative AI.
 </p>
