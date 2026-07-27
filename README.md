@@ -2,7 +2,8 @@
 
 # 👗 VOGA AI
 ### *Try Before You Buy.*
-
+ TRY IT 
+ https://vercel.com/yogananda-h-s-s-projects/vogi-ai
 <p align="center">
 AI-powered Virtual Clothing Try-On Platform using Computer Vision, 3D Rendering, and Generative AI.
 </p>
