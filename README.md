@@ -2,7 +2,7 @@
 
 # 👗 VOGA AI
 ### *Try Before You Buy.*
- TRY IT 
+ TRY IT HERE
  https://vercel.com/yogananda-h-s-s-projects/vogi-ai
 
 <p align="center">
