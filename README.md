@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👗 VOGA AI
+# 👗 VOGA AI (Built with AI)
 ### *Try Before You Buy.*
  TRY IT HERE
  https://vercel.com/yogananda-h-s-s-projects/vogi-ai
