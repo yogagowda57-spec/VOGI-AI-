@@ -3,7 +3,7 @@
 # 👗 VOGA AI (Built with AI)
 ### *Try Before You Buy.*
  TRY IT HERE
- https://vercel.com/yogananda-h-s-s-projects/vogi-ai
+ vogi-ai.vercel.app
 
 <p align="center">
 AI-powered Virtual Clothing Try-On Platform using Computer Vision, 3D Rendering, and Generative AI.
