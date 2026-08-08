@@ -2,7 +2,7 @@
 
 # 👗 VOGA AI (Built with AI)
 ### *Try Before You Buy.*
- TRY IT HERE
+ TRY IT HERE: 
  vogi-ai.vercel.app
 
 <p align="center">
